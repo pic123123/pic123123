@@ -1,5 +1,7 @@
-### Hi there 👋
+### 👋 Hi there 👋
+https://img.shields.io/badge/-Javascript-brightgreen
 
+I'm Joker!
 <!--
 **pic123123/pic123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
