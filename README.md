@@ -1,5 +1,4 @@
 ### 👋 Hi there 👋
-https://img.shields.io/badge/-Javascript-brightgreen
 
 I'm Joker!
 <!--
