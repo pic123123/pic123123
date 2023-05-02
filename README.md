@@ -13,6 +13,8 @@
 - AWS Certified Solutions Architect - Associate
 - https://user-images.githubusercontent.com/40009719/175320638-94d7656d-6b35-47d5-82ed-66f5a1ef7c06.jpeg
 
+- SQLD
+
 <!--
 **pic123123/pic123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
