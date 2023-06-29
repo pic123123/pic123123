@@ -1,9 +1,5 @@
 ### 👋 Hi there 👋
 
-안녕하세요. 백엔드 개발자 박인철 입니다.
-새로운것을 배우고 사용하는데 즐거움을 느끼는 사람입니다.
-
-
 ### NPM
 - https://www.npmjs.com/package/sleep-await
 - https://www.npmjs.com/package/nestjs-graphql-typeorm
